@@ -1,7 +1,7 @@
 #include<cstdio>
 int main(void)
 {
-    int i = 0, j;
+    int i = 0;
     char n;
     char a[10000] = { 0 };
     while( scanf("%c",&n) == 1)
